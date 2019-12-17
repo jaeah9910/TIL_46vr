@@ -36,12 +36,3 @@ Spublic class
 ## Source Tree
 
 ![image-20191216170217491](01_git기초.assets/image-20191216170217491.png)
-
-
-
-
-
-## Clone
-
-git remote repo는 다운로드가 아니라 클론을 해야한다.
-
